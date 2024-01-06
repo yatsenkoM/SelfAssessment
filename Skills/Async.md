@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
-  - try..catch: 🎓 known
-  - Non-blocking: 👂 heard
-  - Async I/O: 👂 heard
+  - Event loop: 🖐️ used
+  - try..catch: 🙋 explained
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
@@ -14,19 +14,19 @@
   - Event ports
   - libuv: 👂 heard
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks: 👂 heard
+  - Live locks: 👂 heard
   - Concurrent programming
   - Parallel programming: 👂 heard
   - Actor Model: 👂 heard
   - Thread: 👂 heard
   - Process: 👂 heard
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first: 👂 heard
-  - Thenable: 👂 heard
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🎓 known
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator: 👂 heard
@@ -38,7 +38,7 @@
   - Signal
   - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware: 👂 heard
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify: 👂 heard
@@ -59,11 +59,11 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 🎓 known
-  - setImmediate: 🎓 known
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
   - nextTick: 👂 heard
-  - AbortController
-  - AbortSignal
+  - AbortController: 👂 heard
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
@@ -73,7 +73,7 @@
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 👂 heard
+  - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON: streaming serialization: 👂 heard
   - promisify: 👂 heard

@@ -11,40 +11,40 @@
   - heap: 🎓 known
   - function: 🙋 explained
   - procedure: 🙋 explained
-  - method: 🖐️ used
-  - class: 🖐️ used
-  - prototype: 🎓 known
-  - event: 🖐️ used
-  - type: 🖐️ used
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🖐️ used
+  - event: 🙋 explained
+  - type: 🙋 explained
   - primitive types: 🙋 explained
-  - reference types: 🖐️ used
+  - reference types: 🙋 explained
   - flag: 🖐️ used
   - lexical scope: 🙋 explained
   - code block: 🖐️ used
   - conditions: 🙋 explaine
   - loops: 🙋 explaine
   - assignment: 🙋 explaine
-  - regular expression: 🎓 known
-  - interface: 👂 heard
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
   - contract: 👂 heard
-  - module: 🖐️ used
+  - module: 🙋 explaine
   - call stack: 🙋 explaine
 - Functions
-  - signature: 🎓 known
+  - signature: 🙋 explained
   - argument: 🙋 explained
   - parameter: 🙋 explained
   - pure function: 🙋 explained
   - lambda expression: 🖐️ used
   - side effects: 🙋 explained
   - closure: 🖐️ used
-  - partial application: 🎓 known
-  - curry: 🎓 known
-  - higher order: 🎓 known
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
   - recursion: 🖐️ used
-  - callback: 🖐️ used
-  - listener: 🖐️ used
-  - compose: 🎓 known
-  - pipe: 👂 heard
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🖐️ used
+  - pipe: 🖐️ used
   - memoize: 🎓 known
   - wrapper: 🎓 known
   - functor: 👂 heard
@@ -56,15 +56,15 @@
   - array: 🙋 explained
   - structure: 🎓 known
   - record: 🎓 known
-  - enum: 🎓 known
+  - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🙋 explained
-  - class: 🖐️ used
+  - class: 🙋 explained
   - collection: 🙋 explained
   - set: 🎓 known
   - hash table: 🎓 known
-  - linked list: 🎓 known
-  - doubly list: 🎓 known
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
   - unrolled list: 🎓 known
   - circular list: 🎓 known
   - queue: 🙋 explained
@@ -75,17 +75,17 @@
   - iterator: 🙋 explained
   - mutable state: 🙋 explained
   - immutable state: 🙋 explained
-  - serialization: 🎓 known
-  - string parsing: 🎓 known
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
 - Process & style
   - compiler: 🙋 explained
   - transpiler: 🙋 explained
-  - linter: 🖐️ used
+  - linter: 🙋 explained
   - polyfill: 👂 heard
-  - debugger: 🎓 known
+  - debugger: 🖐️ used
   - garbage collection: 🎓 known
-  - refactoring: 🖐️ used
-  - code review: 🖐️ used
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
   - antipatterns: 🙋 explained
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
@@ -99,7 +99,7 @@
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
-  - exception: 🖐️ used
+  - exception: 🙋 explained
   - return early: 🙋 explained
   - unittest: 🖐️ used
   - git: 🖐️ used

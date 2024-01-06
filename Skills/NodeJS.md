@@ -6,19 +6,19 @@
   - Nonblocking I/O and slocking code: 👂 heard
   - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection: 👂 heard
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules: 👂 heard
-  - ECMAScript modules: 🎓 known
-  - node:module : 🎓 known
+  - ECMAScript modules: 🖐️ used
+  - node:module : 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts node:vm : 👂 heard
-  - Dependencies: npm, node_modules: 🎓 known
-  - Dependencies: package.json and package lock: 🎓 known
+  - Contexts and scripts node:vm : 🖐️ used
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection: 👂 heard
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection: 👂 heard
   - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - SOLID: 🎓 known
   - GoF patterns: 👂 heard
   - Distributed systems
   - Highload applications
@@ -84,46 +84,46 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S): 🎓 known
+  - IP sticky sessions: 👂 heard
+  - Endpoint throttling: 🎓 known
+  - HTTP(S): 📢 talked
   - TCP/SSL: 👂 heard
-  - UDP: 👂 heard
+  - UDP: 🎓 known
   - TLS: 👂 heard
-  - Websocket: 👂 heard
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 👂 heard
+  - REST: 📢 talked
   - RPC
-  - Routing: 👂 heard
-  - DoS
-  - DDoS
+  - Routing: 🖐️ used
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS: 👂 heard
   - Fetch API
   - IncomingMessage
-  - SQL injection: 👂 heard
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive
+  - keep-alive: 👂 heard
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging: 👂 heard
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing: 🎓 known
+  - Testing: 🖐️ used
   - CI/CD
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
   - back pressure
   - Buffer
-  - Console: 🎓 known
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -136,22 +136,22 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error: 🎓 known
+  - Error: 🖐️ used
   - error.cause: 👂 heard
-  - error.code: 👂 heard
-  - error.message: 👂 heard
+  - error.code: 🎓 known
+  - error.message: 🖐️ used
   - error.stack: 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace: 👂 heard
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools: 👂 heard
+  - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons
+  - Native addons: 👂 heard
   - C and C++ addons
   - Rust addons
   - Zig addons

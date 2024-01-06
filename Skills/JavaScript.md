@@ -4,15 +4,15 @@
   - Object: 🙋 explained
   - this: 🙋 explained
   - arrow function: 🙋 explained
-  - async function: 🎓 known
-  - call: 🎓 known
-  - bind: 🎓 known
-  - apply: 🎓 known
+  - async function: 🖐️ used
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
   - generator: 👂 heard
   - iterator: 🙋 explained
   - async generator: 👂 heard
@@ -23,7 +23,7 @@
   - global: 🎓 known
   - globalThis: 🎓 known
   - window: 🎓 known
-  - getters and setters: 🎓 known
+  - getters and setters: 🖐️ used
   - __proto__: 🎓 known
   - prototype: 🎓 known
   - equality operators: 🙋 explained
@@ -32,12 +32,12 @@
   - ternary operator: 🙋 explained
   - void: 🎓 known
   - yield: 🎓 known
-  - await: 🎓 known
-  - template literal: 🖐️ used
-  - strict mode: 🖐️ used
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super: 🎓 known
+  - await: 🖐️ used
+  - template literal: 🙋 explained
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🖐️ used
   - Symbol: 🎓 known
   - Reflect: 👂 heard
 - Statements
@@ -48,27 +48,27 @@
   - for..in: 🙋 explained
   - for..of: 🙋 explained
   - for await: 🎓 known
-  - throw: 🎓 known
-  - break: 🎓 known
-  - continue: 🎓 known
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label
-  - try..catch: 🎓 known
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🎓 known
-  - with: 👂 heard
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🖐️ used
+  - with: 🎓 known
 - Functions
   - function declaration: 🙋 explained
   - function expression: 🙋 explained
   - return: 🙋 explained
-  - default parameters: 🖐️ used
+  - default parameters: 🙋 explained
   - functional object: 🖐️ used
 - Data structures
   - Array: 🙋 explained
   - mixin: 🎓 known
-  - extend: 🎓 known
+  - extend: 🖐️ used
   - typed arrays: 🎓 known
   - Map: 🎓 known
   - Set: 🎓 known
@@ -76,14 +76,14 @@
   - null: 🙋 explained
   - Proxy: 👂 heard
   - weak collections: 🎓 known
-  - timers: 🎓 known
+  - timers: 🖐️ used
   - EventEmitter: 🎓 known
-  - RegExp: 🎓 known
-  - Date: 🖐️ used
+  - RegExp: 🖐️ used
+  - Date: 🙋 explained
   - BigInt: 🎓 known
 - Infrastructure
   - V8: 🖐️ used
-  - Node.js: 🎓 known
-  - npm: 🎓 known
-  - prettier: 🎓 known
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN: 🖐️ used
