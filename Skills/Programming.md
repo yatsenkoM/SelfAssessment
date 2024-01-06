@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🎓 known
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🎓 known
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🙋 explained
+  - reference types: 🖐️ used
+  - flag: 🖐️ used
+  - lexical scope: 🙋 explained
+  - code block: 🖐️ used
+  - conditions: 🙋 explaine
+  - loops: 🙋 explaine
+  - assignment: 🙋 explaine
+  - regular expression: 🎓 known
+  - interface: 👂 heard
+  - contract: 👂 heard
+  - module: 🖐️ used
+  - call stack: 🙋 explaine
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
+  - signature: 🎓 known
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🖐️ used
+  - side effects: 🙋 explained
+  - closure: 🖐️ used
+  - partial application: 🎓 known
+  - curry: 🎓 known
+  - higher order: 🎓 known
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🖐️ used
+  - compose: 🎓 known
+  - pipe: 👂 heard
+  - memoize: 🎓 known
+  - wrapper: 🎓 known
+  - functor: 👂 heard
+  - monad: 👂 heard
   - monoid
-  - generator
+  - generator: 👂 heard
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 🙋 explained
+  - structure: 🎓 known
+  - record: 🎓 known
+  - enum: 🎓 known
+  - instance: 🖐️ used
+  - object: 🙋 explained
+  - class: 🖐️ used
+  - collection: 🙋 explained
+  - set: 🎓 known
+  - hash table: 🎓 known
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🙋 explained
+  - stack: 🙋 explained
+  - deque: 🙋 explained
+  - tree: 🎓 known
+  - graph: 🖐️ used
+  - iterator: 🙋 explained
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
+  - serialization: 🎓 known
+  - string parsing: 🎓 known
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler: 🙋 explained
+  - transpiler: 🙋 explained
+  - linter: 🖐️ used
+  - polyfill: 👂 heard
+  - debugger: 🎓 known
+  - garbage collection: 🎓 known
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained 
+  - silver bullet: 🙋 explained
+  - not invented here: 👂 heard
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🖐️ used
+  - return early: 🙋 explained
+  - unittest: 🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
