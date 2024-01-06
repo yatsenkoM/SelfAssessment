@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️ used
+  - Procedural programming: 🙋 explained
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🎓 known
-  - Functional programming: 🖐️ used
+  - Functional programming: 🙋 explained
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 🖐️ used
+  - Object-oriented programming: 🙋 explained
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing
-  - Asyncronous programming: 🎓 known
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
-  - Automata-based programming
+  - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 👂 heard
+  - Metaprogramming: 🎓 known
   - Actor model: 👂 heard
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
-  - Static method: 🎓 known
-  - Method: 🖐️ used
-  - Async method: 🎓 known
-  - Getters, Setters: 🎓 known
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations: 🎓 known
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard 
-  - Interface: 👂 heard
-  - Encapsulation: 🎓 known
-  - Hidden class
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 👂 heard
   - Object form
   - instance: 🖐️ used
   - Introspection: 👂 heard
   - Reflection: 👂 heard 
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
   - Adapter: 👂 heard
   - Observer: 👂 heard
   - Strategy
@@ -62,5 +62,5 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 👂 heard 
   - Visitor
